@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and test output
+*.log
+*.tmp
+*.out
+
+# Test coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pytest cache
+.pytest_cache/
+
+# VSCode settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python egg metadata
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks (если вдруг будут)
+.ipynb_checkpoints/
+.idea
